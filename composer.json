@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "LeaGabay",
+        "email": "21025553@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
